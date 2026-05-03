@@ -2,7 +2,7 @@
 
 A cutting-edge multi-agent AI system that simulates a **full courtroom trial** on any claim or topic. Five specialized AI agents collaborate through a LangGraph state machine to research, argue, cross-examine, and deliver a verdict.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-courtroom.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-courtroom-arena.streamlit.app)
 
 ## 🏛️ How It Works
 
